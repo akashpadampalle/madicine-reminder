@@ -1,3 +1,6 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/akashpadampalle/medicine-remider-backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/akashpadampalle/medicine-remider-client.git
